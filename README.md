@@ -6,7 +6,7 @@
 > http://123.456.789.101/open
 
 Для работы нам потребуется провода ,плата NodeMcu3 ESP8266 и модуль реле, схема подключения следующаяя:  
-![image](https://github.com/kulisworm/esp8266pccontrol/assets/59212398/710b0a74-acc3-4de6-88f7-1ade025d7c8d)  
+![image](https://github.com/kulisworm/esp8266pccontrol/assets/59212398/710b0a74-acc3-4de6-88f7-1ade025d7c8d)
 
 ---  
 
